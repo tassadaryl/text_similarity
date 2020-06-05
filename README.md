@@ -6,7 +6,24 @@
 
 ## 文本相似度
 
-### 1.TF-IDF+LSI
+### 方法
+
+1. 向量空间模型（VSM）w2v， TF-IDF
+2. gensim doc2vec
+3. 主题模型 k-means, LDA, DBSCAN
+4. simhash
+5. Deeplearning Methods
+
+### 常用库：
+
+1. jieba
+2. gensim
+
+
+
+### 一些算法实现
+
+####  1. TF-IDF + LSI
 
 <https://www.jianshu.com/p/edf666d3995f>
 
@@ -20,7 +37,7 @@
 
 
 
-### 2. WMD词移距离
+####  2. WMD 词移距离
 
 <https://zhuanlan.zhihu.com/p/74899813>
 
