@@ -6,6 +6,8 @@
 
 ## 文本相似度
 
+<https://zhuanlan.zhihu.com/p/88938220>
+
 ### 方法
 
 1. 向量空间模型（VSM）w2v， TF-IDF
